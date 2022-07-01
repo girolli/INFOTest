@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<registros>
+  <cliente>
+    <nome>MONICA NOGUEIRA DE JESUS</nome>
+    <identidade>23424244242</identidade>
+    <cpf>23453453523</cpf>
+    <telefone>71 3323432233</telefone>
+    <email>monicanj@gmail.com</email>
+    <cep>40275180</cep>
+    <logradouro>Conjunto Rodrigo Horácio Garcia da Costa</logradouro>
+    <numero>0</numero>
+    <complemento>BLOCO C - AP 01</complemento>
+    <bairro>Campinas de Brotas</bairro>
+    <cidade>Salvador</cidade>
+    <estado>BA</estado>
+    <pais>BRASIL</pais>
+  </cliente>
+  <cliente>
+    <nome>CARLOS ANDRADE VASCONCELOS</nome>
+    <identidade>345434535</identidade>
+    <cpf>34534534534</cpf>
+    <telefone>71 3232-3334</telefone>
+    <email>carlosav@gmail.com</email>
+    <cep>40255370</cep>
+    <logradouro>Rua Barros Falcão</logradouro>
+    <numero>166</numero>
+    <complemento>ED CASSIA, AP 101</complemento>
+    <bairro>Matatu</bairro>
+    <cidade>Salvador</cidade>
+    <estado>BA</estado>
+    <pais>BRASIL</pais>
+  </cliente>
+  <cliente>
+    <nome>ADRIANA MACHADO DA CONCEIÇÃO</nome>
+    <identidade>54651613516113</identidade>
+    <cpf>84484435135</cpf>
+    <telefone>71 99161-5555</telefone>
+    <email>adrianamc@gmail.com</email>
+    <cep>40270500</cep>
+    <logradouro>AVENIDA SÃO JANUÁRIO</logradouro>
+    <numero>15</numero>
+    <complemento>CASA</complemento>
+    <bairro>VILA LAURA</bairro>
+    <cidade>SALVADOR</cidade>
+    <estado>BA</estado>
+    <pais>BRASIL</pais>
+  </cliente>
+  <cliente>
+    <nome>FELIPE DUARTE DE CASTRO MELO</nome>
+    <identidade>53132156151313</identidade>
+    <cpf>89151681315</cpf>
+    <telefone>71 99552-1215</telefone>
+    <email>felipedcm@gmail.com</email>
+    <cep>40270900</cep>
+    <logradouro>RUA RAUL LEITE</logradouro>
+    <numero>55</numero>
+    <complemento>1470</complemento>
+    <bairro>VILA LAURA</bairro>
+    <cidade>SALVADOR</cidade>
+    <estado>BA</estado>
+    <pais>BRASIL</pais>
+  </cliente>
+</registros>
